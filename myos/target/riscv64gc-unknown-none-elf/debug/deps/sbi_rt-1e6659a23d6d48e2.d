@@ -1,0 +1,14 @@
+/home/dragonos/workspace/myos/target/riscv64gc-unknown-none-elf/debug/deps/libsbi_rt-1e6659a23d6d48e2.rmeta: /home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/lib.rs /home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/binary.rs /home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/base.rs /home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/legacy.rs /home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/time.rs /home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/spi.rs /home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/rfnc.rs /home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/hsm.rs /home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/srst.rs /home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/pmu.rs
+
+/home/dragonos/workspace/myos/target/riscv64gc-unknown-none-elf/debug/deps/sbi_rt-1e6659a23d6d48e2.d: /home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/lib.rs /home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/binary.rs /home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/base.rs /home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/legacy.rs /home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/time.rs /home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/spi.rs /home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/rfnc.rs /home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/hsm.rs /home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/srst.rs /home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/pmu.rs
+
+/home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/lib.rs:
+/home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/binary.rs:
+/home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/base.rs:
+/home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/legacy.rs:
+/home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/time.rs:
+/home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/spi.rs:
+/home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/rfnc.rs:
+/home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/hsm.rs:
+/home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/srst.rs:
+/home/dragonos/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/sbi-rt-0.0.2/src/pmu.rs:

@@ -1,0 +1,1 @@
+/home/dragonos/workspace/myos/target/riscv64gc-unknown-none-elf/release/myos: /home/dragonos/workspace/myos/src/console.rs /home/dragonos/workspace/myos/src/entry.asm /home/dragonos/workspace/myos/src/lang_items.rs /home/dragonos/workspace/myos/src/main.rs /home/dragonos/workspace/myos/src/sbi.rs
